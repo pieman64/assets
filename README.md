@@ -1,7 +1,7 @@
 # Assets Self-Listing
 Please follow these steps to add your token's logo and additional information to our assets database which will be used across our products, notably the information will be displayed on our exchange's dashboards & in Saturn Wallet. This helps our users research your token and ensures your community does not confuse your token with another.
 
-https://github.com/pieman64/assets/master/etc/doh
+https://github.com/pieman64/raw/assets/master/etc/doh
 
 # Before you proceed
 We like to have a place where our community can easily find out information about your token & dicuss it, as a result we ask that you post an introduction/announcement thread in our forum's cryptocurrency section: https://forum.saturn.network please note this thread will be linked in our exchange and in Saturn Wallet. The forum post needs to be set up before you proceed, thanks!
